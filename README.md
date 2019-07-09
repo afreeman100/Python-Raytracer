@@ -1,6 +1,6 @@
 # Raytracer
 A raytracer created for advanced computer graphics. Includes diffuse + specular lighting, shadows, and can render 
-geometry loaded from OBJ files. Objects can have procedurally generate marble textures applied to them using Perlin 
+geometry loaded from OBJ files. Objects can have procedurally generated marble textures applied to them using Perlin 
 noise.
 
 <p align="center">
