@@ -8,7 +8,7 @@ noise.
 </p>
 
 Run ray_caster.py to render all the objects within a scene. Runtime has been enhanced using
-bounding spheres and [Numba](https://numba.pydata.org/) however rendering complex meshes can still take some time. Reducing
+bounding spheres and [Numba](https://numba.pydata.org/), however rendering complex meshes can still take some time. Reducing
 the size of the camera canvas will make rendering faster, but result in a lower resultion image. 
 
 <p align="center">
