@@ -7,7 +7,7 @@ noise.
 <img src="img/grey_sphere.png" height="200" width="200"><img src="img/teapot.png" height="200" width="200"><img src="img/sphere_shadows.png" height="200" width="200"><img src="img/yellow_sphere.png" height="200" width="200">
 </p>
 
-Run ray_caster.py to render a scene, and all the objects that have been added to it. Runtime has been enhanced using
+Run ray_caster.py to render a scene, and all the objects within it. Runtime has been enhanced using
 bounding spheres and [Numba](https://numba.pydata.org/) however rendering complex meshes can still take some time. Reducing
 the size of the camera canvas will make rendering faster, but result in a lower resultion image. 
 
